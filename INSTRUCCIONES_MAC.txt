@@ -1,0 +1,23 @@
+LA BOGOTÁ SATÍRICA DE SIN REMEDIO — V09
+
+OPCIÓN RÁPIDA (sin instalar nada)
+Abre dist-single/index.html con doble clic en Chrome, Safari o Firefox. Es la experiencia completa en un solo archivo.
+
+OPCIÓN DE DESARROLLO
+1. Descomprime La_Bogota_Satirica_V09.zip en el Escritorio.
+2. Abre Terminal y ejecuta:
+
+cd ~/Desktop/Bogota_Satirica_V09
+npm ci
+npm run dev
+
+3. Abre http://localhost:5173/ en el navegador.
+
+CONTROLES
+- Portada: arrastra el globo; «Entrar a la ciudad» comienza el recorrido.
+- W A S D o flechas: caminar (en la dirección de la cámara). Shift: correr.
+- Arrastrar con el ratón: girar la cámara. Rueda: acercar o alejar.
+- Acércate a un círculo dorado y pulsa E (o el botón amarillo) para entrar.
+- M: mapa con viaje rápido. J: libreta de Escobar. N: día/noche. G: ver el globo.
+- En las escenas: clic, Espacio o → para avanzar; ← para volver; Esc para salir.
+- En el concurso: A, B o C (o clic) para elegir un futuro.

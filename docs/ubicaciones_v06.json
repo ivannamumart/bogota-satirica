@@ -1,0 +1,432 @@
+{
+  "coordinate_system": "Escenográfico. X=oriente, Z=-norte, radio corona 10.2 unidades",
+  "places": [
+    {
+      "id": "apartamento",
+      "x": -6.0,
+      "z": -2.28,
+      "scene": true,
+      "scale": 1.18
+    },
+    {
+      "id": "taller",
+      "x": -7.15,
+      "z": 1.78,
+      "scene": true,
+      "scale": 1.1
+    },
+    {
+      "id": "oasis",
+      "x": -3.72,
+      "z": 4.74,
+      "scene": true,
+      "scale": 1.16
+    },
+    {
+      "id": "septima",
+      "x": 0.15,
+      "z": 1.05,
+      "scene": true,
+      "scale": 1.04
+    },
+    {
+      "id": "parque",
+      "x": -1.95,
+      "z": -2.27,
+      "scene": true,
+      "scale": 1.12
+    },
+    {
+      "id": "porciuncula",
+      "x": 2.65,
+      "z": -6.1,
+      "scene": true,
+      "scale": 1.16
+    },
+    {
+      "id": "jockey",
+      "x": 1.25,
+      "z": 7.62,
+      "scene": true,
+      "scale": 1.14
+    },
+    {
+      "id": "casa_familiar",
+      "x": -4.62,
+      "z": -6.23,
+      "scene": true,
+      "scale": 1.34
+    },
+    {
+      "id": "oficina",
+      "x": 4.65,
+      "z": 4.62,
+      "scene": true,
+      "scale": 1.0
+    },
+    {
+      "id": "unicornio",
+      "x": -1.1,
+      "z": -8.62,
+      "scene": true,
+      "scale": 1.38
+    },
+    {
+      "id": "cementerio",
+      "x": -7.72,
+      "z": 5.26,
+      "scene": true,
+      "scale": 0.68
+    },
+    {
+      "id": "cerros",
+      "x": 8.35,
+      "z": -0.45,
+      "scene": false,
+      "scale": 1.0
+    }
+  ],
+  "nodes": [
+    {
+      "id": "s0",
+      "x": 0.0,
+      "z": 7.8,
+      "entry": null
+    },
+    {
+      "id": "s1",
+      "x": 0.0,
+      "z": 4.2,
+      "entry": null
+    },
+    {
+      "id": "s2",
+      "x": 0.0,
+      "z": 1.0,
+      "entry": null
+    },
+    {
+      "id": "s3",
+      "x": 0.0,
+      "z": -2.45,
+      "entry": null
+    },
+    {
+      "id": "s4",
+      "x": 0.0,
+      "z": -5.35,
+      "entry": null
+    },
+    {
+      "id": "s5",
+      "x": -0.25,
+      "z": -7.75,
+      "entry": null
+    },
+    {
+      "id": "w0",
+      "x": -8.3,
+      "z": 4.1,
+      "entry": null
+    },
+    {
+      "id": "w1",
+      "x": -5.66,
+      "z": 4.12,
+      "entry": null
+    },
+    {
+      "id": "w2",
+      "x": -3.34,
+      "z": 4.06,
+      "entry": null
+    },
+    {
+      "id": "e1",
+      "x": 3.35,
+      "z": 4.2,
+      "entry": null
+    },
+    {
+      "id": "e2",
+      "x": 5.95,
+      "z": 4.35,
+      "entry": null
+    },
+    {
+      "id": "n1",
+      "x": -5.75,
+      "z": -0.52,
+      "entry": null
+    },
+    {
+      "id": "n2",
+      "x": -4.48,
+      "z": -4.06,
+      "entry": null
+    },
+    {
+      "id": "n3",
+      "x": -3.7,
+      "z": -6.1,
+      "entry": null
+    },
+    {
+      "id": "n4",
+      "x": -2.25,
+      "z": -7.75,
+      "entry": null
+    },
+    {
+      "id": "n5",
+      "x": 3.55,
+      "z": -6.1,
+      "entry": null
+    },
+    {
+      "id": "jockey-door",
+      "x": 1.23,
+      "z": 7.02,
+      "entry": "jockey"
+    },
+    {
+      "id": "cemetery-door",
+      "x": -7.64,
+      "z": 4.92,
+      "entry": "cementerio"
+    },
+    {
+      "id": "oasis-door",
+      "x": -3.69,
+      "z": 4.37,
+      "entry": "oasis"
+    },
+    {
+      "id": "office-door",
+      "x": 4.53,
+      "z": 4.27,
+      "entry": "oficina"
+    },
+    {
+      "id": "septima-door",
+      "x": 0.8,
+      "z": 1.0,
+      "entry": "septima"
+    },
+    {
+      "id": "parque-door",
+      "x": -1.85,
+      "z": -2.05,
+      "entry": "parque"
+    },
+    {
+      "id": "taller-door",
+      "x": -6.79,
+      "z": 1.56,
+      "entry": "taller"
+    },
+    {
+      "id": "apartment-door",
+      "x": -5.69,
+      "z": -2.09,
+      "entry": "apartamento"
+    },
+    {
+      "id": "family-door",
+      "x": -4.42,
+      "z": -5.88,
+      "entry": "casa_familiar"
+    },
+    {
+      "id": "porciuncula-door",
+      "x": 2.52,
+      "z": -5.8,
+      "entry": "porciuncula"
+    },
+    {
+      "id": "unicornio-door",
+      "x": -1.15,
+      "z": -8.28,
+      "entry": "unicornio"
+    },
+    {
+      "id": "s3w",
+      "x": -2.95,
+      "z": -2.45,
+      "entry": null
+    },
+    {
+      "id": "w3",
+      "x": -6.3,
+      "z": 1.58,
+      "entry": null
+    }
+  ],
+  "edges": [
+    {
+      "from": "s0",
+      "to": "s1",
+      "kind": "septima"
+    },
+    {
+      "from": "s1",
+      "to": "s2",
+      "kind": "septima"
+    },
+    {
+      "from": "s2",
+      "to": "s3",
+      "kind": "septima"
+    },
+    {
+      "from": "s3",
+      "to": "s4",
+      "kind": "septima"
+    },
+    {
+      "from": "s4",
+      "to": "s5",
+      "kind": "septima"
+    },
+    {
+      "from": "w0",
+      "to": "w1",
+      "kind": "veintiseis"
+    },
+    {
+      "from": "w1",
+      "to": "w2",
+      "kind": "veintiseis"
+    },
+    {
+      "from": "w2",
+      "to": "s1",
+      "kind": "veintiseis"
+    },
+    {
+      "from": "s1",
+      "to": "e1",
+      "kind": "veintiseis"
+    },
+    {
+      "from": "e1",
+      "to": "e2",
+      "kind": "veintiseis"
+    },
+    {
+      "from": "w1",
+      "to": "w3",
+      "kind": "barrio"
+    },
+    {
+      "from": "w3",
+      "to": "n1",
+      "kind": "barrio"
+    },
+    {
+      "from": "n1",
+      "to": "n2",
+      "kind": "barrio"
+    },
+    {
+      "from": "n2",
+      "to": "n3",
+      "kind": "barrio"
+    },
+    {
+      "from": "n3",
+      "to": "n4",
+      "kind": "barrio"
+    },
+    {
+      "from": "n4",
+      "to": "s5",
+      "kind": "barrio"
+    },
+    {
+      "from": "n1",
+      "to": "s2",
+      "kind": "barrio"
+    },
+    {
+      "from": "s3",
+      "to": "s3w",
+      "kind": "barrio"
+    },
+    {
+      "from": "s3w",
+      "to": "n2",
+      "kind": "barrio"
+    },
+    {
+      "from": "w2",
+      "to": "s3w",
+      "kind": "barrio"
+    },
+    {
+      "from": "s4",
+      "to": "n5",
+      "kind": "barrio"
+    },
+    {
+      "from": "n5",
+      "to": "e1",
+      "kind": "barrio"
+    },
+    {
+      "from": "w0",
+      "to": "cemetery-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "w2",
+      "to": "oasis-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "e1",
+      "to": "office-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "s0",
+      "to": "jockey-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "s2",
+      "to": "septima-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "s2",
+      "to": "parque-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "w3",
+      "to": "taller-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "n1",
+      "to": "apartment-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "n3",
+      "to": "family-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "n5",
+      "to": "porciuncula-door",
+      "kind": "sendero"
+    },
+    {
+      "from": "s5",
+      "to": "unicornio-door",
+      "kind": "sendero"
+    }
+  ]
+}
